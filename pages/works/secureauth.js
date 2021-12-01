@@ -21,7 +21,7 @@ const Work = () => (
         We had a "everything is automated" policy. I worked on Frontend (React), 
         Backend (Golang & Java) while leading the QA efforts. 
         So I could track bugs, and also fix them. We performance-tested heavily with Jmeter,
-        cause we the amount of users were going to be big (clients such as Walmart, Starbucks, United Airlines).
+        cause we knew we were going to have lots of users (clients such as Walmart, Starbucks, United Airlines).
         We found lots of bugs doing this, but we managed to fix them all working closely with Devops 
         to find the sweet-spot for the K8s cluster settings.
         Im very proud to say that the testing solution that we build is currently being used in 

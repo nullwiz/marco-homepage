@@ -49,7 +49,7 @@ const Work = () => (
             a platform that was introduced to fund investments, for the biggest law 
             firm in the world. The application was fairly complex. 
             And as always, being in charge of the creation of the testing framework, 
-            I designed the framework with scalability in mind, that way we cut runtime
+            I designed the framework with scalability in mind, that way we could cut runtime
             for tests significantly. I also led new automation testers into the field, 
             providing mentorship and overeseeing their work.
         </ListItem>

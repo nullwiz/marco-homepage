@@ -23,7 +23,7 @@ const Work = () => (
       <P>
         At Practia's, I worked as a lead QA automating test cases and leading
         the search of bugs for Sancor Seguros, a client that was migrating
-        it's 90's architecture to a modern platform. 
+        it's late 2000s architecture to a modern platform. 
         This was my second job, so I was very grateful to Practia for letting me lead a team 
         so early in my career.
       </P>

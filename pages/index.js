@@ -114,8 +114,7 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-          Python, Electronic Music (helps me code!)
-          , Hacking and Pentesting, Web3 
+          Python, Hacking and Pentesting, Web3 
         </Paragraph>
       </Section>
 
