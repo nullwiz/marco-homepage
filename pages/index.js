@@ -24,7 +24,7 @@ import {
 
 const Home = () => (
   <Layout>
-    <Container>
+    <Container maxWidth={"100ch"}>
       <Box
         borderRadius="lg"
         mb={6}

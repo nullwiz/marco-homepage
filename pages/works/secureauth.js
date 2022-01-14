@@ -6,7 +6,7 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => (
   <Layout title="Secureauth">
-    <Container>
+    <Container Container maxWidth={"100ch"} >
       <Title>
         Secureauth <Badge>2019-late 2020</Badge>
       </Title>

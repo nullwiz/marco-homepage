@@ -16,7 +16,7 @@ import P from '../../components/paragraph'
 
 const Work = () => (
   <Layout title="Practia">
-    <Container>
+    <Container Container maxWidth={"100ch"} >
       <Title>
         Practia <Badge>2018-2019</Badge>
       </Title>

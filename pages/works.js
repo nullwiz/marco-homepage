@@ -10,7 +10,7 @@ import thumbAgilethought from '../public/images/works/agilethought.png'
 
 const Works = () => (
   <Layout title="Experience">
-    <Container>
+    <Container Container maxWidth={"100ch"} >
       <Heading as="h3" fontSize={20} mb={4}>
       Experience
       </Heading>

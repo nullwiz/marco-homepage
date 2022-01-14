@@ -16,7 +16,7 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => (
   <Layout title="Agilethought">
-    <Container>
+    <Container Container maxWidth={"100ch"} >
       <Title>
         Agilethought <Badge>2021-</Badge>
       </Title>

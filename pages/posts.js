@@ -7,7 +7,7 @@ import thumbSoftwareTale from '../public/images/contents/software_tale.jpg'
 
 const Posts = () => (
   <Layout title="Posts">
-    <Container>
+    <Container Container maxWidth={"100ch"} >
       <Heading as="h3" fontSize={20} mb={4}>
         Medium Posts
       </Heading>
